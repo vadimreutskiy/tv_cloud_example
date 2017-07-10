@@ -31,3 +31,8 @@ Start service by command `sudo service httppiserver start`
 Stop it by command `sudo service httppiserver stop`
 
 (Optional) Setup autostart by running `sudo update-rc.d httppiserver defaults`
+
+## Usage
+
+Go to page with url http://your-server-address:13149/100 to get 100th digit of Pi after comma,
+where your-server-address should be equal to your server DNS name or 127.0.0.1 if you running it on local machine.
