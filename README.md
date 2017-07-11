@@ -34,5 +34,5 @@ Stop it by command `sudo service httppiserver stop`
 
 ## Usage
 
-Go to page with url http://your-server-address:141459/100 to get 100th digit of Pi after comma,
+Go to page with url http://your-server-address:14159/100 to get 100th digit of Pi after comma,
 where your-server-address should be equal to your server DNS name or `127.0.0.1` if you running it on local machine.
